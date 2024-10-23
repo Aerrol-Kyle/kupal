@@ -10,7 +10,7 @@ function App() {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <a href="#hero" className="site-logo"><img src="/personal-portfolio/assets/img/aks.png" alt="logo" /></a>
+                    <a href="#hero" className="site-logo"><img src="/kupal/assets/img/aks.png" alt="logo" /></a>
                 </div> {/* /.navbar-header  */}``
                 <div className="main-menu" id="portfolio-perfect-collapse">
                     <ul className="nav navbar-nav navbar-right">
@@ -37,7 +37,7 @@ function App() {
                     </div>
                 </div>
                 <div className="col-md-6 text-right">
-                    <img src="/personal-portfolio/assets/img/erol4.png" alt="erol    " />
+                    <img src="/kupal/assets/img/erol4.png" alt="erol    " />
                 </div>
             </div>
         </div>
@@ -48,9 +48,9 @@ function App() {
                 <div className="row">
                     <div className="col-md-6 col-md-offset-3">
                         <h2>About</h2>
-                        <img src="/personal-portfolio/assets/img/lines.svg" className="img-lines" alt="lines" />
+                        <img src="/kupal/assets/img/lines.svg" className="img-lines" alt="lines" />
                         <p>Hello! I'm Aerrol Kyle, a UI/UX Designer, a creative individual who wants to maximize and improve his art skills through designing. I’m currently available for freelance work. If you have a designs that you want to elevate to the next level or want to start something creative, then get in touch.</p>
-                        <a href="/personal-portfolio/assets/resume/my-resume.pdf" className="btn btn-fill" target="_blank" download>Download my resume</a>
+                        <a href="/kupal/assets/resume/my-resume.pdf" className="btn btn-fill" target="_blank" download>Download my resume</a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ function App() {
             <div className="container">
                 <div className="text-center">
                     <h3>My Skills</h3>
-                    <img src="/personal-portfolio/assets/img/lines.svg" className="img-lines" alt="lines" />
+                    <img src="/kupal/assets/img/lines.svg" className="img-lines" alt="lines" />
                 </div>
                 <div className="row">
                     <div className="col-md-4">
@@ -112,25 +112,25 @@ function App() {
                 <div className="row">
                     <div className="col-md-12">
                         <h3>What I do</h3>
-                        <img src="/personal-portfolio/assets/img/lines.svg" className="img-lines" alt="lines" />
+                        <img src="/kupal/assets/img/lines.svg" className="img-lines" alt="lines" />
                     </div>
                     <div className="col-sm-4">
                         <div className="service">
-                            <img src="/personal-portfolio/assets/img/front-end.svg" alt="Front End Developer" />
+                            <img src="/kupal/assets/img/front-end.svg" alt="Front End Developer" />
                             <h4>UI/UX Designs</h4>
                             <p>As an artist, I'm pursuing my passion in arts by doing Figma, I offer various designs that could elevate and fit your style.</p>
                         </div> {/* /.service  */}
                     </div>
                     <div className="col-sm-4">
                         <div className="service">
-                            <img src="/personal-portfolio/assets/img/back-end.svg" alt="Front End Developer" />
+                            <img src="/kupal/assets/img/back-end.svg" alt="Front End Developer" />
                             <h4>Front-End</h4>
                             <p>I also do a little bit of front-end designs that will bring change to your future projects.</p>
                         </div> {/* /.service  */}
                     </div>
                     <div className="col-sm-4">
                         <div className="service">
-                            <img src="/personal-portfolio/assets/img/consultancy.svg" alt="Coding" />
+                            <img src="/kupal/assets/img/consultancy.svg" alt="Coding" />
                             <h4>Consultancy</h4>
                             <p>As well as providing these services, I can also help you manage your tasks via consultancy services.</p>
                         </div> {/* /.service  */}
@@ -142,12 +142,12 @@ function App() {
             <div className="container">
                 <div className="text-center">
                     <h3>My recent Works</h3>
-                    <img src="/personal-portfolio/assets/img/lines.svg" className="img-lines" alt="lines" />
+                    <img src="/kupal/assets/img/lines.svg" className="img-lines" alt="lines" />
                 </div>
                 <div className="row">
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/personal-portfolio.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/personal-portfolio.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>Personal Portolio Template</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem1"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -157,7 +157,7 @@ function App() {
                     </div>
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/efs.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/efs.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>EFS Apparel Prototype</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem2"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -167,7 +167,7 @@ function App() {
                     </div>
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/finals.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/finals.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>Post-Page Project</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem3"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -177,7 +177,7 @@ function App() {
                     </div>
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/markup.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/markup.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>Mark-Up with CSS</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem4"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -187,7 +187,7 @@ function App() {
                     </div>
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/responsive.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/responsive.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>Responsive Webpage</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem5"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -197,7 +197,7 @@ function App() {
                     </div>
                     <div className="col-md-4 col-xs-6">
                         <div className="portfolio-item">
-                            <img src="/personal-portfolio/assets/img/putotayp.jpg" className="img-res" alt="" />
+                            <img src="/kupal/assets/img/putotayp.jpg" className="img-res" alt="" />
                             <div className="portfolio-item-info">
                                 <h4>CIM Prototye and Website</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem6"><span className="glyphicon glyphicon-eye-open"></span></a>
@@ -229,7 +229,7 @@ function App() {
         <section id="contact" className="site-section section-form text-center">
             <div className="container">
                 <h3>Contact</h3>
-                <img src="/personal-portfolio/assets/img/lines.svg" className="img-lines" alt="lines" />
+                <img src="/kupal/assets/img/lines.svg" className="img-lines" alt="lines" />
                 <form>
                     <div className="row">
                         <div className="col-sm-6">
@@ -269,7 +269,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/personal-portfolio.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/personal-portfolio.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">Personal Portfolio Template</h4>
@@ -286,7 +286,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/efs.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/efs.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">EFS Apparel Prototype</h4>
@@ -303,7 +303,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/finals.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/finals.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">Post-Page Project</h4>
@@ -320,7 +320,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/markup.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/markup.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">Mark-Up with CSS</h4>
@@ -337,7 +337,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/responsive.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/responsive.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">Responsive Webpage</h4>
@@ -354,7 +354,7 @@ function App() {
         <div className="modal-content">
           <div className="modal-header">
             <a className="close" data-dismiss="modal"><span className="glyphicon glyphicon-remove"></span></a>
-            <img className="img-res" src="/personal-portfolio/assets/img/putotayp.jpg" alt="" />
+            <img className="img-res" src="/kupal/assets/img/putotayp.jpg" alt="" />
           </div>
           <div className="modal-body">
             <h4 className="modal-title">CIM Prototype and Website</h4>
